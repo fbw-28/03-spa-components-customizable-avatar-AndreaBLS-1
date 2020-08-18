@@ -1,0 +1,52 @@
+
+.bigContainer {
+    display:flex;
+    flex-wrap: wrap;
+}
+
+.container {
+    width: 30%;
+    margin: 15px;
+    border: 2px solid rgba(128, 128, 128, 0.418)
+} 
+.textContent{
+    margin: 15px;
+}
+img{
+    margin: 15px;
+    display: inline-block;
+}
+
+.s {
+    width:30px;
+    height:30px;
+    font-size: 15px;
+}
+
+.m{
+    width:60px;
+    height:60px;
+    font-size: 18px;
+}
+.l{
+    width:120px;
+    height:120px;
+    font-size: 19px;
+}
+.xl{
+    width:150px;
+    height:150px;
+    font-size: 20px;
+}
+
+.rounded{
+    border-radius: 5px;
+}
+
+.circle{
+    border-radius: 50%;
+}
+
+.square{
+    border: 1px solid;
+}
